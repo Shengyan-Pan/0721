@@ -1,0 +1,25 @@
+Machine Learning Aspects of the MyShake Global Smartphone Seismic Network 
+by Qingkai Kong, Asaf Inbal, Richard M. Allen, Qin Lv, and Arno Puder 
+
+ABSTRACT
+
+This article gives an overview of machine learning (ML) applications in MyShake—a crowdsourcing global smartphone seismic network.
+
+這篇文章概述了機器學習的應用在MyShake，也就是眾包的全球智慧型地震網路。
+講述文章主題
+
+Algorithms from classification, regression, and clustering are used in the MyShake system to address various problems, such as artificial neural network (ANN) and convolutional neural network (CNN) to distinguish earthquake motions, spatial–temporal clustering using density-based spatial clustering of applications with noise (DBSCAN) to detect earthquakes from phone aggregated information, and random forest regression to learn from existing physics-based relationships.
+
+從分類、回歸和聚類的演算法都被MyShake的系統用來解決多種問題，像是人工神經網路和卷積神經網路用來區分地震的運動、時空聚類以DBSCAN法來檢測從很多手機接收來的地震資訊、和隨機森林演算法用來得知現有的物理方面的關係。
+講述文章使用的方法
+
+Beyond existing efforts, this article also presents a vision of the role of ML in some new directions and challenges.
+
+除了現有的努力，這篇文章還給了一個角度來看機器學習在新的方向和挑戰上扮演的腳色。
+講述文章中機器學習對未來的展望
+
+Using MyShake as an example, this article demonstrates the promising combination of ML and seismology.
+
+以MyShake為例，這篇文章展示了機器學習和地震學結合的前途。
+講述文章中機器學習對未來的展望
+
